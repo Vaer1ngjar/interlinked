@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 1eba5e3f2c8c84746ab1d24a2f73510e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5325606880850505348
+    second: Frame 13_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: photoshoptileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9140b1e26795fbc4ebf5d2eb1aab2caf
+      internalID: 1997601844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a354655a3f7b14697dabae51d15ca6
+      internalID: 2115816447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ca70a3921f2645a87507b63d9b936
+      internalID: 340003772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3b1d2af5701843b5a1f7e4fae0487
+      internalID: -1940787672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf7604474830d43944da2dbb0b3a61
+      internalID: -436370274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67f5669295aec4a8d23582d68e4892
+      internalID: -1407508905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b4f4209bccbc468c0c8c5515b6f91
+      internalID: -1673114336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e87a77140a17041b6807c102593dc0
+      internalID: -605874205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 651
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907408518facc74cb7a5c475c95378c
+      internalID: 1663097074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db7fad69516974f878ddcdd07169b9
+      internalID: 138265999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8186f10c58a6a2f4f8719dcb7206c596
+      internalID: -676334663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5d4034ccb22b468ffe2b21ebd4a05
+      internalID: -1778961212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8dd4f676129cb4487fccfabe31fa17
+      internalID: 2132940585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94be62cd5e75634d947f6e6b2898038
+      internalID: -128627279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644c3eea4a662e4d86b0d0301d82a43
+      internalID: -1107811499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f118cdf8e491d4991cf1ed346edcb9
+      internalID: -464178358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfaeac9339dd5c47a00ce742074b18f
+      internalID: -1294069523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcbcd9434bf3744f834869f76ff3813
+      internalID: -1476354190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace47bee0d3cbac46bd5c6fec99a0750
+      internalID: -1226517072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b99d13f4855b2e46a3b1a3dc27b7a22
+      internalID: -966540573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70272f4af0866a24f93d156b44ffdc31
+      internalID: -1042966693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2725979c92a049a623bd2598f1afe
+      internalID: 170066638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26ec0d93452f3479a46a484bd2f976
+      internalID: -1007370375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de3a0e0dc06964888c8f7e0d21a844
+      internalID: -59600546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d555a30d37ef7d43996f1ae84ed89d8
+      internalID: 1681881761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_25
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab90a4776b9bb4baccec00feb1d629
+      internalID: -1585774393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444bbc77d55d1d54f9d3053cf07636d9
+      internalID: 1671329421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90d94c0ce4ace479aec9970212a2a2
+      internalID: -1307082373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7c03f95c9787440a3390c5706f497c
+      internalID: 1257436471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46ab2211daf67040a7ddf513a24a558
+      internalID: 1724399265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb39eddb1ae8346950f752445d4aa6
+      internalID: -1062758619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7254fd6ce82001409abbdf5518c6ce6
+      internalID: 528267058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a0da38cf585740859106b57c75b19
+      internalID: 876831584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9f518e37a632847bfb622f0bf41263
+      internalID: -927675022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91c400c95cc7d44b115a9982bec6ff
+      internalID: 893162480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 267
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a614b3c264187a41bc1f2f529fc50db
+      internalID: -1184244980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60c1ea141370c4baf63ab32a0a6501
+      internalID: -835286849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c522e823197c214bb27f224b3afd07a
+      internalID: -391336153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c36be1a2cfd845b46c72db5027c74
+      internalID: -1773357669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e42a91121f625b4a8b4cc264dc33a3d
+      internalID: 164978324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92711b7528a86f40a93e8030d2b9946
+      internalID: -1570785793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148e7730de4fe64b8f3888de6a40dae
+      internalID: -1914778308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476551f78258a74b99af758147f95c7
+      internalID: -639037805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_43
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30bebff3106604194b9183c46ee773
+      internalID: 1415123900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305443d52ad10cf41814dd78468f2a8f
+      internalID: -2062143196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974b26dfab8000448b2eef9863a2ec4
+      internalID: -2032130566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c942362a6bd886469d51b0e1ce0c625
+      internalID: 798483035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3bb6a065421614caa177ffe1571358
+      internalID: -199678043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0519666ace362d94daf2f2c15e954d8e
+      internalID: 802347144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913cf8a3cb69c04b98b8f6828d25b6a
+      internalID: -2015696642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b099577ec9b9a154b8caefaa815ebede
+      internalID: -1483061932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292314e99453144e81b75af7044a645
+      internalID: 764270593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9fa024f9ecd7645a1aab638b91c7bc
+      internalID: 609990173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: photoshoptileset_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 11
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c40429760825429bd8e5ac68e1a79
+      internalID: -412546518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83e7b2ff7dc762840bb66c0a1504b69c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      photoshoptileset_0: 1997601844
+      photoshoptileset_1: 2115816447
+      photoshoptileset_10: -676334663
+      photoshoptileset_11: -1778961212
+      photoshoptileset_12: 2132940585
+      photoshoptileset_13: -128627279
+      photoshoptileset_14: -1107811499
+      photoshoptileset_15: -464178358
+      photoshoptileset_16: -1294069523
+      photoshoptileset_17: -1476354190
+      photoshoptileset_18: -1226517072
+      photoshoptileset_19: -966540573
+      photoshoptileset_2: 340003772
+      photoshoptileset_20: -1042966693
+      photoshoptileset_21: 170066638
+      photoshoptileset_22: -1007370375
+      photoshoptileset_23: -59600546
+      photoshoptileset_24: 1681881761
+      photoshoptileset_25: -1585774393
+      photoshoptileset_26: 1671329421
+      photoshoptileset_27: -1307082373
+      photoshoptileset_28: 1257436471
+      photoshoptileset_29: 1724399265
+      photoshoptileset_3: -1940787672
+      photoshoptileset_30: -1062758619
+      photoshoptileset_31: 528267058
+      photoshoptileset_32: 876831584
+      photoshoptileset_33: -927675022
+      photoshoptileset_34: 893162480
+      photoshoptileset_35: -1184244980
+      photoshoptileset_36: -835286849
+      photoshoptileset_37: -391336153
+      photoshoptileset_38: -1773357669
+      photoshoptileset_39: 164978324
+      photoshoptileset_4: -436370274
+      photoshoptileset_40: -1570785793
+      photoshoptileset_41: -1914778308
+      photoshoptileset_42: -639037805
+      photoshoptileset_43: 1415123900
+      photoshoptileset_44: -2062143196
+      photoshoptileset_45: -2032130566
+      photoshoptileset_46: 798483035
+      photoshoptileset_47: -199678043
+      photoshoptileset_48: 802347144
+      photoshoptileset_49: -2015696642
+      photoshoptileset_5: -1407508905
+      photoshoptileset_50: -1483061932
+      photoshoptileset_51: 764270593
+      photoshoptileset_52: 609990173
+      photoshoptileset_53: -412546518
+      photoshoptileset_6: -1673114336
+      photoshoptileset_7: -605874205
+      photoshoptileset_8: 1663097074
+      photoshoptileset_9: 138265999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
